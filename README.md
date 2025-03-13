@@ -15,9 +15,6 @@ Hi! 👋 I'm Lucas Fernández, passionate about data extraction and processing. 
       <li>✅ <b>Task orchestration and automation</b> with <code>Apache Airflow</code></li>
     </ul>
   </div>
-  <div>
-    <img src="https://github.com/LucasNF84/LucasNF84/raw/main/Analyze%20Lucky%20Charms%20GIF%20by%20Giflytics.gif" width="100">
-  </div>
 </div>
 
 ## 🛠 Technologies I Use  
