@@ -5,7 +5,7 @@ Hi! 👋 I'm Lucas Fernández, passionate about data extraction and processing. 
 
 
 ## 🔥 What I Do  
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td>
       <ul>
