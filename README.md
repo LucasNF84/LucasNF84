@@ -11,7 +11,7 @@ Hi! 👋 I'm Lucas Fernández, passionate about data extraction and processing. 
 ✅ **Data storage and loading** into `PostgreSQL`, `SQL Server`, `BigQuery`, and more  
 ✅ **Task orchestration and automation** with `Apache Airflow`  
 
-<img src="https://github.com/LucasNF84/LucasNF84/blob/main/Analyze%20Lucky%20Charms%20GIF%20by%20Giflytics.gif" width="75" height="75">
+<img src="https://github.com/LucasNF84/LucasNF84/blob/main/Analyze%20Lucky%20Charms%20GIF%20by%20Giflytics.gif" width="200" height="200">
 
 ## 🛠 Technologies I Use  
 💻 **Languages:** Python 🐍, SQL 📊  
