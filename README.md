@@ -1,4 +1,3 @@
-![Web Scraping ETL](https://github.com/LucasNF84/LucasNF84/raw/main/banner.png)
 
 # 🚀 Web Scraping and ETL Processes with Python
 
