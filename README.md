@@ -5,20 +5,22 @@ Hi! 👋 I'm Lucas Fernández, passionate about data extraction and processing. 
 
 
 ## 🔥 What I Do  
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <ul>
-      <li>✅ <b>Web Scraping</b> with <code>requests</code>, <code>BeautifulSoup</code>, and <code>Selenium</code></li>
-      <li>✅ <b>ETL Processes</b> using <code>pandas</code>, <code>SQLAlchemy</code>, and <code>Airflow</code></li>
-      <li>✅ <b>Data extraction</b> from multiple sources: all types of files and databases</li>
-      <li>✅ <b>Data storage and loading</b> into <code>PostgreSQL</code>, <code>SQL Server</code>, <code>BigQuery</code>, and more</li>
-      <li>✅ <b>Task orchestration and automation</b> with <code>Apache Airflow</code></li>
-    </ul>
-  </div>
-  <div>
-    <img src="https://github.com/LucasNF84/LucasNF84/raw/main/Analyze%20Lucky%20Charms%20GIF%20by%20Giflytics.gif" width="120">
-  </div>
-</div>
+<table width="100%">
+  <tr>
+    <td>
+      <ul>
+        <li>✅ <b>Web Scraping</b> with <code>requests</code>, <code>BeautifulSoup</code>, and <code>Selenium</code></li>
+        <li>✅ <b>ETL Processes</b> using <code>pandas</code>, <code>SQLAlchemy</code>, and <code>Airflow</code></li>
+        <li>✅ <b>Data extraction</b> from multiple sources: all types of files and databases</li>
+        <li>✅ <b>Data storage and loading</b> into <code>PostgreSQL</code>, <code>SQL Server</code>, <code>BigQuery</code>, and more</li>
+        <li>✅ <b>Task orchestration and automation</b> with <code>Apache Airflow</code></li>
+      </ul>
+    </td>
+    <td align="right">
+      <img src="https://github.com/LucasNF84/LucasNF84/raw/main/Analyze%20Lucky%20Charms%20GIF%20by%20Giflytics.gif" width="100">
+    </td>
+  </tr>
+</table>
 
 ## 🛠 Technologies I Use  
 💻 **Languages:** Python 🐍, SQL 📊  
