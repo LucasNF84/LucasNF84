@@ -17,7 +17,7 @@ Hi! 👋 I'm Lucas Fernández, passionate about data extraction and processing. 
       </ul>
     </td>
     <td align="right">
-      <img src="https://github.com/LucasNF84/LucasNF84/raw/main/Analyze%20Lucky%20Charms%20GIF%20by%20Giflytics.gif">
+      <img src="https://github.com/LucasNF84/LucasNF84/raw/main/Analyze%20Lucky%20Charms%20GIF%20by%20Giflytics.gif" width="100">
     </td>
   </tr>
 </table>
