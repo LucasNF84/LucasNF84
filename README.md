@@ -1,6 +1,9 @@
-# 🚀 Automation of Web Scraping and ETL with Python  
+![Web Scraping ETL](https://github.com/LucasNF84/LucasNF84/raw/main/banner.png)
+
+# 🚀 Web Scraping and ETL Processes with Python
 
 Hi! 👋 I'm Lucas Fernández, passionate about data extraction and processing. I specialize in **Web Scraping and ETL processes**, automating workflows to transform data into valuable insights.  
+
 
 ## 🔥 What I Do  
 ✅ **Web Scraping** with `requests`, `BeautifulSoup`, and `Selenium`  
@@ -28,3 +31,4 @@ Hi! 👋 I'm Lucas Fernández, passionate about data extraction and processing. 
 ---
 
 ✨ _Always learning and improving data processes._ 🚀  
+
